@@ -6,17 +6,17 @@ const LANGUAGE = import.meta.env.VITE_LANGUAGE || 'EN'
 
 const translations = {
   EN: {
-    willYouBeMyValentine: (name: string) => `${name}, willst du mein Valentinstags Date sein?`,
+    willYouBeMyValentine: (name: string) => `${name}, willst du mein Date sein?`,
     areYouSure: "Hallo was für nein? 🥺",
     prettyPlease: "Junge, die Antwort heißt JAAA? 💕",
-    wontGiveUp: "So schnell gebe ich nicht auf! 💖",
+    wontGiveUp: "So schnell gebe ich nicht auf! Ich bin schließlich 35 💖",
     tooShy: "Der richtige Button ist JAA😜",
-    justSayYes: "SAG EINFACH JAAA 💘",
+    justSayYes: "SAG EINFACH JAAA MANN 💘",
     yes: "JAA! 💕",
     no: "Nein",
     yay: "YAY!",
     knewYoudSayYes: (name: string) => `Ich wusste du sagst ja, ${name}!`,
-    happiestPerson: "Du machst mich zum glücklichsten Mann 💕",
+    happiestPerson: "Du machst mich zum glücklichsten 35 Jährige Mann 💕",
   },
   DA: {
     willYouBeMyValentine: (name: string) => `${name}, vil du være min Valentine?`,
